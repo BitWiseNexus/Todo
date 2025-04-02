@@ -16,7 +16,7 @@ Make sure you have the following installed:
    ```sh
    git clone https://github.com/BitWiseNexus/Todo.git
    ```
-2. Install dependencies using npm or yarn:
+2. Install dependencies using npm:
    ```sh
    npm install
    ```
